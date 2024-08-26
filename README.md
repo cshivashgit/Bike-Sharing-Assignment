@@ -16,8 +16,13 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 - Which variables are significant in predicting the demand for shared bikes.
 - How well those variables describe the bike demands
 
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Technologies Used
+- numpy - version 1.26.4
+- pandas - version 2.1.4
+- matplotlib - version 3.8.0
+- seaborn - version 0.13.2
+- statsmodels - version 0.14.0
+- sklearn - version 1.2.2
 
 ## Conclusions
 Demand of bikes depend on 
@@ -32,17 +37,6 @@ Demand of bikes depend on
 - winter 
 - july 
 - sep
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- numpy - version 1.26.4
-- pandas - version 2.1.4
-- matplotlib - version 3.8.0
-- seaborn - version 0.13.2
-- statsmodels - version 0.14.0
-- sklearn - version 1.2.2
 
 
 
