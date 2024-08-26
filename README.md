@@ -6,7 +6,6 @@ A bike-sharing system is a service in which bikes are made available for shared 
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -45,18 +44,6 @@ Demand of bikes depend on
 - statsmodels - version 0.14.0
 - sklearn - version 1.2.2
 
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
 
 
 <!-- Optional -->
